@@ -1,0 +1,27 @@
+{
+    "id": "2DB6C47B",
+    "path": "~/Dropbox/Research/mutation_bias_analysis2/code/germline_mutations_meta_genes.R",
+    "project_path": "code/germline_mutations_meta_genes.R",
+    "type": "r_source",
+    "hash": "2691697215",
+    "contents": "",
+    "dirty": false,
+    "created": 1660920869102.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,9",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660923449,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660923449587,
+    "read_only": false,
+    "read_only_alternatives": []
+}

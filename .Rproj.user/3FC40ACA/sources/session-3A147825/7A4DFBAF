@@ -1,0 +1,27 @@
+{
+    "id": "7A4DFBAF",
+    "path": "~/Dropbox/Research/mutation_bias_analysis2/code/T2T_filtered_tss.R",
+    "project_path": "code/T2T_filtered_tss.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1660897403028.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "94,0",
+        "scrollLine": "79"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660920840,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660920840048,
+    "read_only": false,
+    "read_only_alternatives": []
+}
