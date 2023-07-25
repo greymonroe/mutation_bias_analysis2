@@ -1,0 +1,1 @@
+chrom	position	ref_base	depth	q20_depth	base:reads:strands:avg_qual:map_qual:plus_reads:minus_reads	alt1	alt2	alt3	alt4	alt5	alt6	alt7	alt8	alt9	alt10	alt11	alt12	alt13	alt14
